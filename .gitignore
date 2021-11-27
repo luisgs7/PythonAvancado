@@ -4,3 +4,4 @@ venv
 **/__pycache__
 pythonIntermediário/app.json
 log.txt
+app.txt
