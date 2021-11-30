@@ -5,3 +5,4 @@ venv
 pythonIntermediário/app.json
 log.txt
 app.txt
+clients.json
